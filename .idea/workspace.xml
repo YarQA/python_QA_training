@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a60598f-d928-4880-88d8-63477bd717f3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/TestAddGroup.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestAddGroup.py" afterDir="false" />
-    </list>
+    <list default="true" id="7a60598f-d928-4880-88d8-63477bd717f3" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="python_QA_training" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -62,7 +63,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -76,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest in TestAddGroup.py">
     <configuration name="Unittests in TestAddGroup.py" type="tests" factoryName="Unittests" nameIsGenerated="true">
       <module name="python_QA_training" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -91,6 +93,40 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="python_QA_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\User-2\Documents\GitHub\python_QA_training\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in TestAddGroup.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="python_QA_training" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\User-2\Documents\GitHub\python_QA_training\env\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestAddGroup.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest in TestAddGroup.py" />
+      <item itemvalue="Python tests.Unittests in TestAddGroup.py" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -121,13 +157,16 @@
     <history-entry file="Unittests_in_TestAddGroup_py - 2018.12.03 at 16h 56m 33s.xml">
       <configuration name="Unittests in TestAddGroup.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_TestAddGroup_py - 2018.12.03 at 16h 57m 48s.xml">
+      <configuration name="Unittests in TestAddGroup.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18923241" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49921507" visible="true" weight="0.18923241" />
+      <window_info id="Structure" order="1" sideWeight="0.50078493" side_tool="true" weight="0.18923241" />
+      <window_info id="Favorites" order="2" sideWeight="0.50078493" side_tool="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30985916" />
