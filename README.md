@@ -1,1 +1,1 @@
-# python_QA_training
+# Repository for Tython Training
