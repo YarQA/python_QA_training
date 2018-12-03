@@ -7,9 +7,11 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoAlertPresentException
 import unittest, time, re
 
+
+
 class TestOne(unittest.TestCase):
     def setUp(self):
-        self.driver = webdriver.Firefox()
+        self.driver = webdriver.Chrome()
         self.driver.implicitly_wait(30)
         self.base_url = "https://www.katalon.com/"
         self.verificationErrors = []
